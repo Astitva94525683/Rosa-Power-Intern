@@ -1,4 +1,4 @@
-# Welcome to My Summer Intern Project 😊
+# Welcome to My Summer Industrial Training Project 😊
 
 ## Intro - 
 [introduction to power plant.pdf](https://github.com/user-attachments/files/18768495/introduction.to.power.plant.pdf)
